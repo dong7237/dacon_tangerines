@@ -5,7 +5,7 @@
 본 프로젝트는 데이콘에서 주최한 "감귤 착과량 예측 AI 경진대회"의 참여 기록입니다.
 제주도의 감귤 농가 데이터를 활용하여 나무의 착과량(열매 개수)을 예측하는 머신러닝 모델을 개발하고, 이를 통해 농가의 수확량 예측 및 생산 관리 효율성 증대에 기여하고자 합니다.
 
-**경진대회 링크:** [데이콘 감귤 착과량 예측 AI 경진대회](https://dacon.io/competitions/official/235820/overview/description) (실제 링크로 대체해주세요)
+**경진대회 링크:** [데이콘 감귤 착과량 예측 AI 경진대회](https://dacon.io/competitions/official/236038/overview/description) (실제 링크로 대체해주세요)
 
 ## 📊 분석 과정
 
