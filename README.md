@@ -36,7 +36,7 @@
 
 ---
 
-### 2. Legacy 분석 (2023년) - `fruit_yield_prediction_legacy_2023.ipynb`
+### 2. Legacy 분석 (2023년) 
 
 #### 2.1. 주요 접근 방식
 
@@ -62,7 +62,7 @@
 
 ---
 
-### 3. Vol.2 분석 (2025년 개선) - `fruit_yield_prediction_vol2_2025.ipynb`
+### 3. Vol.2 분석 (2025년 개선)
 
 #### 3.1. 주요 개선 사항 및 접근 방식
 
