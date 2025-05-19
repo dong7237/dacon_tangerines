@@ -145,8 +145,8 @@
 
 ## 5. 파일 구성
 
-* `fruit_yield_prediction_legacy_2023.ipynb`: 2023년에 수행한 초기 분석 과정 노트북.
-* `fruit_yield_prediction_vol2_2025.ipynb`: 2025년에 수행한 개선된 분석 과정 노트북.
+* `착과량예측.ipynb`: 2023년에 수행한 초기 분석 과정 노트북.
+* `착과량예측_vol2.ipynb`: 2025년에 수행한 개선된 분석 과정 노트북.
 * `train.csv`: 학습 데이터.
 * `test.csv`: 예측 대상 데이터.
 
